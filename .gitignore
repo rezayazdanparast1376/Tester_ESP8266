@@ -1,0 +1,10 @@
+*.mk
+*makefile
+*.d
+*.su
+*.o
+*.cyclo
+*.list
+*.elf
+*.map
+

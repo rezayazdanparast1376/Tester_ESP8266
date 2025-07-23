@@ -47,9 +47,9 @@
 									<listOptionValue builtIn="false" value="../Drivers/CMSIS/Device/ST/STM32F1xx/Include"/>
 									<listOptionValue builtIn="false" value="../Drivers/CMSIS/Include"/>
 									<listOptionValue builtIn="false" value="&quot;D:\Projects\ESP8266\Common_C&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;D:\Projects\code\test_esp8266\ConfigManager&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;D:\Projects\ESP8266\ESP8266&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;D:\Projects\code\test_esp8266\Algorithms&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/ConfigManager}&quot;"/>
 								</option>
 								<inputType id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.input.c.2016428326" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.input.c"/>
 							</tool>
@@ -84,9 +84,9 @@
 								<listOptionValue builtIn="false" value="../Drivers/CMSIS/Device/ST/STM32F1xx/Include"/>
 								<listOptionValue builtIn="false" value="../Drivers/CMSIS/Include"/>
 								<listOptionValue builtIn="false" value="&quot;D:\Projects\ESP8266\Common_C&quot;"/>
-								<listOptionValue builtIn="false" value="&quot;D:\Projects\code\test_esp8266\ConfigManager&quot;"/>
 								<listOptionValue builtIn="false" value="&quot;D:\Projects\ESP8266\ESP8266&quot;"/>
 								<listOptionValue builtIn="false" value="&quot;D:\Projects\code\test_esp8266\Algorithms&quot;"/>
+								<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/ConfigManager}&quot;"/>
 							</option>
 							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.option.languagestandard.412944188" name="Language standard" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.option.languagestandard" value="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.option.languagestandard.value.gnu18" valueType="enumerated"/>
 							<inputType id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.input.c.2049740512" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.input.c"/>
