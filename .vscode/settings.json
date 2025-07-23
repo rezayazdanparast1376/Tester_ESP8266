@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "configmanager.h": "c",
+        "receiver.h": "c"
+    }
+}
