@@ -111,7 +111,7 @@ void SystemClock_Config(void) {
   * @param None
   * @retval None
   */
-static void MX_TIM3_Init(void)
+void MX_TIM3_Init(void)
 {
 
   /* USER CODE BEGIN TIM3_Init 0 */
@@ -156,7 +156,7 @@ static void MX_TIM3_Init(void)
   * @param None
   * @retval None
   */
-static void MX_TIM4_Init(void)
+void MX_TIM4_Init(void)
 {
 
   /* USER CODE BEGIN TIM4_Init 0 */
@@ -201,7 +201,7 @@ static void MX_TIM4_Init(void)
   * @param None
   * @retval None
   */
-static void MX_USART1_UART_Init(void)
+void MX_USART1_UART_Init(void)
 {
 
   /* USER CODE BEGIN USART1_Init 0 */
@@ -234,7 +234,7 @@ static void MX_USART1_UART_Init(void)
   * @param None
   * @retval None
   */
-static void MX_USART2_UART_Init(void)
+void MX_USART2_UART_Init(void)
 {
 
   /* USER CODE BEGIN USART2_Init 0 */
@@ -267,7 +267,7 @@ static void MX_USART2_UART_Init(void)
   * @param None
   * @retval None
   */
-static void MX_USART3_UART_Init(void)
+void MX_USART3_UART_Init(void)
 {
 
   /* USER CODE BEGIN USART3_Init 0 */
@@ -300,7 +300,7 @@ static void MX_USART3_UART_Init(void)
   * @param None
   * @retval None
   */
-static void MX_GPIO_Init(void)
+void MX_GPIO_Init(void)
 {
   GPIO_InitTypeDef GPIO_InitStruct = {0};
 /* USER CODE BEGIN MX_GPIO_Init_1 */

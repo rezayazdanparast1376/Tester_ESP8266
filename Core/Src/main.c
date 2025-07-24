@@ -8,10 +8,18 @@
 #include "debug.h"
 
 
+
+
 int main(void) {
 	config_manager();
 
     HAL_Delay(1000);
+
+//    uart_printf("salam %d" , 1000);
+    // debug_info(&DEBUG_PORT, "test  ..., %d", 45);
+
+//    Soft_Assert_Ignore(1, "test1 %d", 12233);
+//    Soft_Assert_Ignore(2, "test2 %d", 8888);
 
     debug_info(&DEBUG_PORT, "Initializing esp8266 ...");
 	init_esp8266();

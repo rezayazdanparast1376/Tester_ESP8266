@@ -1,6 +1,10 @@
 {
     "files.associations": {
         "configmanager.h": "c",
-        "receiver.h": "c"
+        "receiver.h": "c",
+        "defs.h": "c",
+        "esp8266.h": "c",
+        "esp8266_receive_respond.h": "c",
+        "debug.h": "c"
     }
 }

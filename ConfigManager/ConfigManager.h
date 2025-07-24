@@ -35,12 +35,12 @@ extern volatile uint32_t uart_3_rx_counter;
 void config_manager(void);
 
 void SystemClock_Config(void);
-static void MX_GPIO_Init(void);
-static void MX_USART1_UART_Init(void);
-static void MX_USART2_UART_Init(void);
-static void MX_USART3_UART_Init(void);
-static void MX_TIM3_Init(void);
-static void MX_TIM4_Init(void);
+void MX_GPIO_Init(void);
+void MX_USART1_UART_Init(void);
+void MX_USART2_UART_Init(void);
+void MX_USART3_UART_Init(void);
+void MX_TIM3_Init(void);
+void MX_TIM4_Init(void);
 
 
 
