@@ -1,6 +1,6 @@
 #include "receiver.h"
 #include "ConfigManager.h"
-
+#include "esp8266.h"
 
 void receive_esp8266_data(void) {
     Int16 len = PullSerialBuffer(&uart_buffer_3, esp8266_buffer, MEM_SIZE);
